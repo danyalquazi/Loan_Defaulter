@@ -1,2 +1,2 @@
 # Loan_Defaulter
-We have predicted the customer risk _flag (Risk of giving loan to a person) using a several classification techniques.
+We have predicted the customer risk_flag (Risk of giving loan to a person) using several classification techniques.
